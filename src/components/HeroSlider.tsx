@@ -51,7 +51,7 @@ export default function HeroSlider() {
 
             return (
               <div key={index}>
-                <div className="relative grid grid-cols-1 md:grid-cols-2 items-center min-h-[650px] px-10 md:px-14">
+                <div className="relative grid grid-cols-1 md:grid-cols-2 items-center min-h-[650px] md:px-14">
                   
                   <motion.div
                     initial={false}
